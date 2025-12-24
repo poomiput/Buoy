@@ -1,0 +1,292 @@
+[
+    {
+        "buoy_id": "TH-GULF-01",
+        "timestamp": "2025-12-25T00:30:00+07:00",
+        "gps": {
+            "lat": 13.12,
+            "lon": 100.52
+        },
+        "weather": {
+            "wind_speed_ms": 4.8,
+            "wind_dir_deg": 185,
+            "air_temp_c": 30.2,
+            "humidity_pct": 82,
+            "pressure_hpa": 1010.5,
+            "rain_mm": 0.0,
+            "solar_wm2": 580
+        },
+        "water": {
+            "temp_c": 28.5,
+            "do_mg_l": 6.2,
+            "ph": 8.1,
+            "turbidity_ntu": 5.8,
+            "chlorophyll_ug_l": 2.1,
+            "light_par": 135
+        },
+        "power": {
+            "battery_v": 12.8,
+            "solar_w": 22.5
+        }
+    },
+    {
+        "buoy_id": "TH-GULF-02",
+        "timestamp": "2025-12-25T00:30:00+07:00",
+        "gps": {
+            "lat": 12.45,
+            "lon": 100.89
+        },
+        "weather": {
+            "wind_speed_ms": 5.5,
+            "wind_dir_deg": 195,
+            "air_temp_c": 29.8,
+            "humidity_pct": 79,
+            "pressure_hpa": 1009.8,
+            "rain_mm": 0.2,
+            "solar_wm2": 620
+        },
+        "water": {
+            "temp_c": 29.2,
+            "do_mg_l": 5.8,
+            "ph": 8.0,
+            "turbidity_ntu": 6.5,
+            "chlorophyll_ug_l": 2.8,
+            "light_par": 128
+        },
+        "power": {
+            "battery_v": 12.5,
+            "solar_w": 20.0
+        }
+    },
+    {
+        "buoy_id": "TH-GULF-03",
+        "timestamp": "2025-12-25T00:30:00+07:00",
+        "gps": {
+            "lat": 11.78,
+            "lon": 101.35
+        },
+        "weather": {
+            "wind_speed_ms": 6.2,
+            "wind_dir_deg": 210,
+            "air_temp_c": 30.5,
+            "humidity_pct": 76,
+            "pressure_hpa": 1008.2,
+            "rain_mm": 0.0,
+            "solar_wm2": 650
+        },
+        "water": {
+            "temp_c": 30.1,
+            "do_mg_l": 5.2,
+            "ph": 7.9,
+            "turbidity_ntu": 8.2,
+            "chlorophyll_ug_l": 3.5,
+            "light_par": 118
+        },
+        "power": {
+            "battery_v": 12.2,
+            "solar_w": 19.5
+        }
+    },
+    {
+        "buoy_id": "TH-GULF-04",
+        "timestamp": "2025-12-25T00:30:00+07:00",
+        "gps": {
+            "lat": 10.52,
+            "lon": 101.78
+        },
+        "weather": {
+            "wind_speed_ms": 7.1,
+            "wind_dir_deg": 220,
+            "air_temp_c": 31.2,
+            "humidity_pct": 74,
+            "pressure_hpa": 1007.5,
+            "rain_mm": 0.0,
+            "solar_wm2": 680
+        },
+        "water": {
+            "temp_c": 31.5,
+            "do_mg_l": 4.5,
+            "ph": 8.2,
+            "turbidity_ntu": 12.5,
+            "chlorophyll_ug_l": 4.2,
+            "light_par": 105
+        },
+        "power": {
+            "battery_v": 11.9,
+            "solar_w": 18.0
+        }
+    },
+    {
+        "buoy_id": "TH-GULF-05",
+        "timestamp": "2025-12-25T00:30:00+07:00",
+        "gps": {
+            "lat": 9.85,
+            "lon": 102.25
+        },
+        "weather": {
+            "wind_speed_ms": 5.8,
+            "wind_dir_deg": 200,
+            "air_temp_c": 30.8,
+            "humidity_pct": 78,
+            "pressure_hpa": 1008.8,
+            "rain_mm": 1.5,
+            "solar_wm2": 520
+        },
+        "water": {
+            "temp_c": 29.8,
+            "do_mg_l": 5.5,
+            "ph": 8.0,
+            "turbidity_ntu": 9.8,
+            "chlorophyll_ug_l": 3.0,
+            "light_par": 112
+        },
+        "power": {
+            "battery_v": 12.4,
+            "solar_w": 16.5
+        }
+    },
+    {
+        "buoy_id": "TH-GULF-06",
+        "timestamp": "2025-12-25T00:30:00+07:00",
+        "gps": {
+            "lat": 9.25,
+            "lon": 100.85
+        },
+        "weather": {
+            "wind_speed_ms": 4.2,
+            "wind_dir_deg": 175,
+            "air_temp_c": 29.5,
+            "humidity_pct": 85,
+            "pressure_hpa": 1011.2,
+            "rain_mm": 0.0,
+            "solar_wm2": 590
+        },
+        "water": {
+            "temp_c": 28.2,
+            "do_mg_l": 6.5,
+            "ph": 8.1,
+            "turbidity_ntu": 4.5,
+            "chlorophyll_ug_l": 1.8,
+            "light_par": 142
+        },
+        "power": {
+            "battery_v": 13.0,
+            "solar_w": 24.0
+        }
+    },
+    {
+        "buoy_id": "TH-GULF-07",
+        "timestamp": "2025-12-25T00:30:00+07:00",
+        "gps": {
+            "lat": 8.45,
+            "lon": 101.52
+        },
+        "weather": {
+            "wind_speed_ms": 8.5,
+            "wind_dir_deg": 245,
+            "air_temp_c": 32.0,
+            "humidity_pct": 70,
+            "pressure_hpa": 1005.5,
+            "rain_mm": 0.0,
+            "solar_wm2": 720
+        },
+        "water": {
+            "temp_c": 33.5,
+            "do_mg_l": 2.8,
+            "ph": 7.8,
+            "turbidity_ntu": 22.0,
+            "chlorophyll_ug_l": 6.5,
+            "light_par": 85
+        },
+        "power": {
+            "battery_v": 10.8,
+            "solar_w": 12.0
+        }
+    },
+    {
+        "buoy_id": "TH-GULF-08",
+        "timestamp": "2025-12-25T00:30:00+07:00",
+        "gps": {
+            "lat": 7.85,
+            "lon": 102.45
+        },
+        "weather": {
+            "wind_speed_ms": 6.8,
+            "wind_dir_deg": 230,
+            "air_temp_c": 31.5,
+            "humidity_pct": 72,
+            "pressure_hpa": 1006.8,
+            "rain_mm": 0.5,
+            "solar_wm2": 660
+        },
+        "water": {
+            "temp_c": 30.5,
+            "do_mg_l": 4.8,
+            "ph": 7.9,
+            "turbidity_ntu": 11.2,
+            "chlorophyll_ug_l": 3.8,
+            "light_par": 98
+        },
+        "power": {
+            "battery_v": 11.5,
+            "solar_w": 15.5
+        }
+    },
+    {
+        "buoy_id": "TH-GULF-09",
+        "timestamp": "2025-12-25T00:30:00+07:00",
+        "gps": {
+            "lat": 10.15,
+            "lon": 99.85
+        },
+        "weather": {
+            "wind_speed_ms": 3.5,
+            "wind_dir_deg": 160,
+            "air_temp_c": 28.8,
+            "humidity_pct": 88,
+            "pressure_hpa": 1012.5,
+            "rain_mm": 2.5,
+            "solar_wm2": 420
+        },
+        "water": {
+            "temp_c": 27.5,
+            "do_mg_l": 7.0,
+            "ph": 8.2,
+            "turbidity_ntu": 3.2,
+            "chlorophyll_ug_l": 1.5,
+            "light_par": 155
+        },
+        "power": {
+            "battery_v": 12.9,
+            "solar_w": 14.0
+        }
+    },
+    {
+        "buoy_id": "TH-GULF-10",
+        "timestamp": "2025-12-25T00:30:00+07:00",
+        "gps": {
+            "lat": 11.25,
+            "lon": 99.45
+        },
+        "weather": {
+            "wind_speed_ms": 4.0,
+            "wind_dir_deg": 170,
+            "air_temp_c": 29.2,
+            "humidity_pct": 84,
+            "pressure_hpa": 1011.8,
+            "rain_mm": 0.8,
+            "solar_wm2": 550
+        },
+        "water": {
+            "temp_c": 28.0,
+            "do_mg_l": 6.8,
+            "ph": 8.0,
+            "turbidity_ntu": 4.0,
+            "chlorophyll_ug_l": 2.0,
+            "light_par": 148
+        },
+        "power": {
+            "battery_v": 13.1,
+            "solar_w": 21.0
+        }
+    }
+]
